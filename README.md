@@ -5,7 +5,7 @@
 ## Getting Started
 
 To set up and run the project locally, clone the repository first using command<br>
-`git clone https://github.com/waksun0x00/SMT9---TopikKhususNuklir.git`<br>
+`git clone https://github.com/waksun0x00/SMT-9---TopikKhususNuklir.git`<br>
 
 ### Run the program
 
