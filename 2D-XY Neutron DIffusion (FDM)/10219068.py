@@ -39,7 +39,7 @@ flux_new[1:-1,1:-1] = (flux_guess+init_source)/2
 
 #Convergence Criteria
 iteration = 0
-err_max = 1/100 #Relative % error of numeric and analytic (5% in this case)
+err_max = 1/100 #Relative % error of numeric and analytic (1% in this case)
 itermax = 10000
 while True:
     conv = 1
